@@ -1,4 +1,4 @@
-## Documentação do Projeto Technical Share
+## Documentação do Projeto O-Share
 
 <h1 align = "center">{BACK-END}</h1>
 
