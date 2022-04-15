@@ -64,4 +64,4 @@ Relacionamento entre tabelas:
 ## Elaborado por: [_**Victor Hugo Costa de Souza**_](https://www.linkedin.com/in/victorhcsouza/)
 
 
-<h1 align = "center">Agradecemos ao grupo FCamara pela rica e valiosa oportunidae :orange_heart:</h1>
+<h1 align = "center">Agradecemos ao grupo FCamara pela rica e valiosa oportunidade :orange_heart:</h1>
