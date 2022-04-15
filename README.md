@@ -1,4 +1,4 @@
-<h1 align = "center">{BACK-END}</h1>
+<h1 align = "center">{DOCUMENTAÇÃO}</h1>
 
 # <h1 align = "center"> Projeto O-Share </h1>
 ## :page_facing_up: Sobre o projeto
