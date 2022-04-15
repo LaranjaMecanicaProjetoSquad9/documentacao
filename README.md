@@ -23,8 +23,29 @@ A aplicação foi escrita em linguagem Java e se apropria da arquitetura REST pa
 
 # <h1 align = "center"> Detalhando a aplicação em suas classes</h1>
 ## Model – Responsável pela criação das tabelas e manipulação de dados 
--	UsuarioModel – Contendo os seguintes atributos: “id, nome, funcao, habilidade, telefone, email, senha, foto, sobremim, dataNascimento, dataCriacaoConta”
--	UsuarioPostagem – Contendo os seguintes atributos: “id, titulo,  texto, foto, date”
+### UsuarioModel
+Atributo         | Descrição
+-----------------|-----------
+id               | Número identificador único
+nome             | Nome completo
+funcao           | Função do colaborador
+habilidade       | Habilidade do mentor
+telefone         | Telefone do mentor
+email            | E-mail 
+senha            | Senha
+foto             | Foto de perfil
+sobremim         | Descrição profissional / Experiências
+dataNascimento   | Data de Nascimento 
+dataCriacaoConta | Data de criação da conta 
+
+### UsuarioPostagem
+Atributo         | Descrição
+-----------------|-----------
+id               | Número identificador único
+titulo           | Título da postagem
+texto            | Informações gerais sobre a mentoria
+foto             | Foto associada a mentoria
+date             | Data da postagem
 
 Relacionamento entre tabelas:
 - UsuarioModel  → UsuarioPostagem (OneToMany): Um usuário pode realizar “n” postagens
