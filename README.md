@@ -18,7 +18,7 @@ Projeto desenvolvido para o programa de formação FCamara [{Season 3}](https://
 - [Swagger (Documentação API)](https://technicalshare-api.herokuapp.com/swagger-ui/)
 - [Heroku (Hospedagem))](https://dashboard.heroku.com/apps/technicalshare-api)
 
-<h1 align = "center"> A O-Share é uma API REST</h1>
+<h1 align = "center">O-Share é uma API REST</h1>
 A aplicação foi escrita em linguagem Java e se apropria da arquitetura REST para o desenvolvimento padronizado e escalonável. Tal característica é atribuida em função da implementação do protocolo HTTP e seus quatro principais métodos (GET, POST, PUT e DELETE), utiilzados para a realização de requisições (request) e obtenção de respostas (responses) do servidor. A escolha dessa arquitetura é justificada por sua interoperabilidade simplificada e funcional, que permite a conexão com o Front-end. 
 
 # <h1 align = "center"> Detalhando a aplicação em suas classes</h1>
