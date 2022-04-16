@@ -60,8 +60,37 @@ Relacionamento entre tabelas:
 ## Service
 -	Validação de usuários cadastrados e não cadastrados para impedir a duplicidade
 
+## :hammer_and_wrench: Tecnologias utilizadas
+### Front-end
+- Angular (Framework)
+- Typescript (Linguagem)
+- Scss e bootstrap 4+ (Estilização e componentes)
+- [Netilify (Deploy)](https://oshareapp.netlify.app/)
+### Back-end
+- Spring Boot (Framework)
+- Java (Linguagem)
+- PostgreSQL (Banco de Dados)
+- [Swagger (Documentação API)](https://technicalshare-api.herokuapp.com/swagger-ui/)
+- [Heroku (Deploy)](https://dashboard.heroku.com/apps/technicalshare-api)
 
-## Elaborado por: [_**Victor Hugo Costa de Souza**_](https://www.linkedin.com/in/victorhcsouza/)
+# Frontend
+
+  
+
+O projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
+
+  
+
+## Rodar no servidor
+
+  
+
+Execute`ng serve` para rodar no servidor e navegue até `http://localhost:4200/`. 
+
+
+
+## Elaborado por: [_**Victor Hugo Costa de Souza**_](https://www.linkedin.com/in/victorhcsouza/),
+ [_**Victor Hugo Costa de Souza**_](https://www.linkedin.com/in/isaiasroberto/)
 
 
 <h1 align = "center">Agradecemos ao grupo FCamara pela rica e valiosa oportunidade :orange_heart:</h1>
