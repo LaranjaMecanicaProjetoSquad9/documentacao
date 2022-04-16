@@ -90,7 +90,7 @@ Execute`ng serve` para rodar no servidor e navegue até `http://localhost:4200/`
 
 
 ## Elaborado por: [_**Victor Hugo Costa de Souza**_](https://www.linkedin.com/in/victorhcsouza/),
- [_**Victor Hugo Costa de Souza**_](https://www.linkedin.com/in/isaiasroberto/)
+## [_**Isaias Riberto Anidio**_](https://www.linkedin.com/in/isaiasroberto/)
 
 
 <h1 align = "center">Agradecemos ao grupo FCamara pela rica e valiosa oportunidade :orange_heart:</h1>
